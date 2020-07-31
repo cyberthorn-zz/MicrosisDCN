@@ -1,6 +1,8 @@
 # MicrosisDCN
 MicrosisDCN ver 1.0e based on Raspbian Buster 2019 for Raspberry Pi CM3+ compute module
 
+[![](http://img.youtube.com/vi/gs3VbtL6GQk/0.jpg)](http://www.youtube.com/watch?v=gs3VbtL6GQk "")
+
 ![](https://raw.githubusercontent.com/cyberthorn-zz/MicrosisDCN/master/MicrosisDCN_banner.jpg)
 
 #### MicrosisDCN_Raspbian_32GB_EagleEye_1_Dec_2019 Download Link (8.84GB .img.xz)
